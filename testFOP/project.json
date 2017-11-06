@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "crispin.fop" : "2.4.0" 
+      }
+    }
+   }
+}
